@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p1_p3_REMG</string>
+    <string name="nombre">ingresa tu nombre</string>
+    <string name="ingresanombre">nombre</string>
+    <string name="btngrabar">grabar</string>
+    <string name="contenido">contenido</string>
+    <string name="btncargar">cargar</string>
+</resources>
